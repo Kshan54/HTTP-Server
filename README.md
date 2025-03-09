@@ -206,9 +206,6 @@ See the [High-Level Design Document](HLD.md) for more details about the architec
 - `void send()`: Send a response without body
 - `void sendFile(const std::string& filePath)`: Send a file as response
 
-## License
-
-This project is licensed under the Apache License 2.0 - see the LICENSE file for details.
 
 ## Contributing
 
